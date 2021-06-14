@@ -1,0 +1,1 @@
+START http://www.mfa.gov.kp/en/
