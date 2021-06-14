@@ -2,8 +2,8 @@ How to use?
 
 !!! NOTE, THAT THIS CODE CAN BE ONLY USED FOR WINDOWS (MICROSOFT) COMPUTERS !!!
 
-1.) Click: Get code
-2.) Click: Download .zip
+1.) Extract folder from .ZIP
+2.) Open "WEBSITES.bat"
 3.) Extract to downloads folder
 4.) Open folder "North-Korean-Websites-main"
 5.) Open folder "sites"
