@@ -5,7 +5,7 @@ How to use?
 1.) Click: Get code
 2.) Click: Download .zip
 3.) Extract to downloads folder
-4.) Open folder "North-Korean-Websites"
+4.) Open folder "North-Korean-Websites-main"
 5.) Open folder "sites"
 6.) Click the site you want to open.
 
